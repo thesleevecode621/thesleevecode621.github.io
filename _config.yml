@@ -1,11 +1,11 @@
 # Site settings
-author: boruch d
-title: 
+author: David
+title: "the code horde"
 header-img: img/home-bg.png
 email: dubywider@gmail.com
-copyright_name: boruch d
+copyright_name: David
 description: > # this means to ignore newlines until "baseurl:"
-  
+  "coding through bootcamp"
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  thesleevecode621
